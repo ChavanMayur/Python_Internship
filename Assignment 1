@@ -1,0 +1,8 @@
+val=int(input())
+print(val)
+val2=int(input())
+print(val2)
+rem=(val%val2)
+print(rem)
+quo=(val//val2)
+print(quo)
